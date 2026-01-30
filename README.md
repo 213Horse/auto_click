@@ -27,3 +27,4 @@ Mở file `Chạy đăng nhập.command` (chuột phải → Mở nếu macOS ch
 Luồng: truy cập trang đăng nhập → điền email → điền mật khẩu → nhấn Đăng nhập → chờ vào Bảng điều khiển.  
 Chrome sẽ mở, khi xong nhấn Enter trong terminal để đóng.
 # auto_click
+# auto_click
