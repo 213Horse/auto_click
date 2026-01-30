@@ -28,3 +28,4 @@ Luồng: truy cập trang đăng nhập → điền email → điền mật kh�
 Chrome sẽ mở, khi xong nhấn Enter trong terminal để đóng.
 # auto_click
 # auto_click
+# auto_click
